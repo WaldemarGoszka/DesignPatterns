@@ -1,7 +1,6 @@
-package pl.zajavka.DesignPatterns.Observer;
+package pl.zajavka.DesignPatterns.ChainOfResponsibility;
 
 public class Main {
-   public String string;
     public static void main(String[] args) {
 
     }
