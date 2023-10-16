@@ -19,7 +19,7 @@ public class CarFactoryFacade {
 
     public void produceCar() {
         frameAssembler.assembleFrame(); // złożenie ramy
-        painter.paintSkeleton(); // malowanie szkieletu
+        painter.paintSkeleton(); // m alowanie szkieletu
         engineMaker.fastenEngine(); // przymocuj silnik
         cockpitAssembler.mountCockpit(); // zamontuj kokpit
         doorMaker.installDoor(); // zamontuj drzwi
